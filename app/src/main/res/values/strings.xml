@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ServiceKey">sS9joESzYsg6XxvLZBn2lgAzqhh6GuMPZ%2BreJj0M8NP7fO1arBNQXWsCP3lVujAA24%2B9ANn%2BRlkwmgfBpGZ5MQ%3D%3D</string>
+</resources>
